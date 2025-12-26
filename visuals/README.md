@@ -1,1 +1,1 @@
-Dashboard image
+Imagen Dashboard
