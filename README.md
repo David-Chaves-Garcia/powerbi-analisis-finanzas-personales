@@ -33,5 +33,5 @@ el diseño de visualizaciones coherentes, evitando conclusiones forzadas propias
 - Visualización analítica
 
 ## 🖼️ Dashboard
-![Dashboard](visuals/dashboard.png)
+![Dashboard](visuals/Dashboard.png)
 
