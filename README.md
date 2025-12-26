@@ -31,3 +31,7 @@ el diseño de visualizaciones coherentes, evitando conclusiones forzadas propias
 - DAX
 - Modelado de datos
 - Visualización analítica
+
+## 🖼️ Dashboard
+![Dashboard](visuals/dashboard.png)
+
